@@ -1,0 +1,249 @@
+{"id":"AD","languge":"Andorra"}
+{"id":"AE","languge":"United Arab Emirates"}
+{"id":"AF","languge":"Afghanistan"}
+{"id":"AG","languge":"Antigua and Barbuda"}
+{"id":"AI","languge":"Anguilla"}
+{"id":"AL","languge":"Albania"}
+{"id":"AM","languge":"Armenia"}
+{"id":"AO","languge":"Angola"}
+{"id":"AQ","languge":"Antarctica"}
+{"id":"AR","languge":"Argentina"}
+{"id":"AS","languge":"American Samoa"}
+{"id":"AT","languge":"Austria"}
+{"id":"AU","languge":"Australia"}
+{"id":"AW","languge":"Aruba"}
+{"id":"AX","languge":"Åland Islands"}
+{"id":"AZ","languge":"Azerbaijan"}
+{"id":"BA","languge":"Bosnia and Herzegovina"}
+{"id":"BB","languge":"Barbados"}
+{"id":"BD","languge":"Bangladesh"}
+{"id":"BE","languge":"Belgium"}
+{"id":"BF","languge":"Burkina Faso"}
+{"id":"BG","languge":"Bulgaria"}
+{"id":"BH","languge":"Bahrain"}
+{"id":"BI","languge":"Burundi"}
+{"id":"BJ","languge":"Benin"}
+{"id":"BL","languge":"Saint Barthélemy"}
+{"id":"BM","languge":"Bermuda"}
+{"id":"BN","languge":"Brunei Darussalam"}
+{"id":"BO","languge":"Bolivia, Plurinational State of"}
+{"id":"BQ","languge":"Bonaire, Sint Eustatius and Saba"}
+{"id":"BR","languge":"Brazil"}
+{"id":"BS","languge":"Bahamas"}
+{"id":"BT","languge":"Bhutan"}
+{"id":"BV","languge":"Bouvet Island"}
+{"id":"BW","languge":"Botswana"}
+{"id":"BY","languge":"Belarus"}
+{"id":"BZ","languge":"Belize"}
+{"id":"CA","languge":"Canada"}
+{"id":"CC","languge":"Cocos (Keeling) Islands"}
+{"id":"CD","languge":"Congo, the Democratic Republic of the"}
+{"id":"CF","languge":"Central African Republic"}
+{"id":"CG","languge":"Congo"}
+{"id":"CH","languge":"Switzerland"}
+{"id":"CI","languge":"Côte d'Ivoire"}
+{"id":"CK","languge":"Cook Islands"}
+{"id":"CL","languge":"Chile"}
+{"id":"CM","languge":"Cameroon"}
+{"id":"CN","languge":"China"}
+{"id":"CO","languge":"Colombia"}
+{"id":"CR","languge":"Costa Rica"}
+{"id":"CU","languge":"Cuba"}
+{"id":"CV","languge":"Cape Verde"}
+{"id":"CW","languge":"Curaçao"}
+{"id":"CX","languge":"Christmas Island"}
+{"id":"CY","languge":"Cyprus"}
+{"id":"CZ","languge":"Czech Republic"}
+{"id":"DE","languge":"Germany"}
+{"id":"DJ","languge":"Djibouti"}
+{"id":"DK","languge":"Denmark"}
+{"id":"DM","languge":"Dominica"}
+{"id":"DO","languge":"Dominican Republic"}
+{"id":"DZ","languge":"Algeria"}
+{"id":"EC","languge":"Ecuador"}
+{"id":"EE","languge":"Estonia"}
+{"id":"EG","languge":"Egypt"}
+{"id":"EH","languge":"Western Sahara"}
+{"id":"ER","languge":"Eritrea"}
+{"id":"ES","languge":"Spain"}
+{"id":"ET","languge":"Ethiopia"}
+{"id":"FI","languge":"Finland"}
+{"id":"FJ","languge":"Fiji"}
+{"id":"FK","languge":"Falkland Islands (Malvinas)"}
+{"id":"FM","languge":"Micronesia, Federated States of"}
+{"id":"FO","languge":"Faroe Islands"}
+{"id":"FR","languge":"France"}
+{"id":"GA","languge":"Gabon"}
+{"id":"GB","languge":"United Kingdom"}
+{"id":"GD","languge":"Grenada"}
+{"id":"GE","languge":"Georgia"}
+{"id":"GF","languge":"French Guiana"}
+{"id":"GG","languge":"Guernsey"}
+{"id":"GH","languge":"Ghana"}
+{"id":"GI","languge":"Gibraltar"}
+{"id":"GL","languge":"Greenland"}
+{"id":"GM","languge":"Gambia"}
+{"id":"GN","languge":"Guinea"}
+{"id":"GP","languge":"Guadeloupe"}
+{"id":"GQ","languge":"Equatorial Guinea"}
+{"id":"GR","languge":"Greece"}
+{"id":"GS","languge":"South Georgia and the South Sandwich Islands"}
+{"id":"GT","languge":"Guatemala"}
+{"id":"GU","languge":"Guam"}
+{"id":"GW","languge":"Guinea-Bissau"}
+{"id":"GY","languge":"Guyana"}
+{"id":"HK","languge":"Hong Kong"}
+{"id":"HM","languge":"Heard Island and McDonald Islands"}
+{"id":"HN","languge":"Honduras"}
+{"id":"HR","languge":"Croatia"}
+{"id":"HT","languge":"Haiti"}
+{"id":"HU","languge":"Hungary"}
+{"id":"ID","languge":"Indonesia"}
+{"id":"IE","languge":"Ireland"}
+{"id":"IL","languge":"Israel"}
+{"id":"IM","languge":"Isle of Man"}
+{"id":"IN","languge":"India"}
+{"id":"IO","languge":"British Indian Ocean Territory"}
+{"id":"IQ","languge":"Iraq"}
+{"id":"IR","languge":"Iran, Islamic Republic of"}
+{"id":"IS","languge":"Iceland"}
+{"id":"IT","languge":"Italy"}
+{"id":"JE","languge":"Jersey"}
+{"id":"JM","languge":"Jamaica"}
+{"id":"JO","languge":"Jordan"}
+{"id":"JP","languge":"Japan"}
+{"id":"KE","languge":"Kenya"}
+{"id":"KG","languge":"Kyrgyzstan"}
+{"id":"KH","languge":"Cambodia"}
+{"id":"KI","languge":"Kiribati"}
+{"id":"KM","languge":"Comoros"}
+{"id":"KN","languge":"Saint Kitts and Nevis"}
+{"id":"KP","languge":"Korea, Democratic People's Republic of"}
+{"id":"KR","languge":"Korea, Republic of"}
+{"id":"KW","languge":"Kuwait"}
+{"id":"KY","languge":"Cayman Islands"}
+{"id":"KZ","languge":"Kazakhstan"}
+{"id":"LA","languge":"Lao People's Democratic Republic"}
+{"id":"LB","languge":"Lebanon"}
+{"id":"LC","languge":"Saint Lucia"}
+{"id":"LI","languge":"Liechtenstein"}
+{"id":"LK","languge":"Sri Lanka"}
+{"id":"LR","languge":"Liberia"}
+{"id":"LS","languge":"Lesotho"}
+{"id":"LT","languge":"Lithuania"}
+{"id":"LU","languge":"Luxembourg"}
+{"id":"LV","languge":"Latvia"}
+{"id":"LY","languge":"Libya"}
+{"id":"MA","languge":"Morocco"}
+{"id":"MC","languge":"Monaco"}
+{"id":"MD","languge":"Moldova, Republic of"}
+{"id":"ME","languge":"Montenegro"}
+{"id":"MF","languge":"Saint Martin (French part)"}
+{"id":"MG","languge":"Madagascar"}
+{"id":"MH","languge":"Marshall Islands"}
+{"id":"MK","languge":"Macedonia, the Former Yugoslav Republic of"}
+{"id":"ML","languge":"Mali"}
+{"id":"MM","languge":"Myanmar"}
+{"id":"MN","languge":"Mongolia"}
+{"id":"MO","languge":"Macao"}
+{"id":"MP","languge":"Northern Mariana Islands"}
+{"id":"MQ","languge":"Martinique"}
+{"id":"MR","languge":"Mauritania"}
+{"id":"MS","languge":"Montserrat"}
+{"id":"MT","languge":"Malta"}
+{"id":"MU","languge":"Mauritius"}
+{"id":"MV","languge":"Maldives"}
+{"id":"MW","languge":"Malawi"}
+{"id":"MX","languge":"Mexico"}
+{"id":"MY","languge":"Malaysia"}
+{"id":"MZ","languge":"Mozambique"}
+{"id":"NA","languge":"Namibia"}
+{"id":"NC","languge":"New Caledonia"}
+{"id":"NE","languge":"Niger"}
+{"id":"NF","languge":"Norfolk Island"}
+{"id":"NG","languge":"Nigeria"}
+{"id":"NI","languge":"Nicaragua"}
+{"id":"NL","languge":"Netherlands"}
+{"id":"NO","languge":"Norway"}
+{"id":"NP","languge":"Nepal"}
+{"id":"NR","languge":"Nauru"}
+{"id":"NU","languge":"Niue"}
+{"id":"NZ","languge":"New Zealand"}
+{"id":"OM","languge":"Oman"}
+{"id":"PA","languge":"Panama"}
+{"id":"PE","languge":"Peru"}
+{"id":"PF","languge":"French Polynesia"}
+{"id":"PG","languge":"Papua New Guinea"}
+{"id":"PH","languge":"Philippines"}
+{"id":"PK","languge":"Pakistan"}
+{"id":"PL","languge":"Poland"}
+{"id":"PM","languge":"Saint Pierre and Miquelon"}
+{"id":"PN","languge":"Pitcairn"}
+{"id":"PR","languge":"Puerto Rico"}
+{"id":"PS","languge":"Palestine, State of"}
+{"id":"PT","languge":"Portugal"}
+{"id":"PW","languge":"Palau"}
+{"id":"PY","languge":"Paraguay"}
+{"id":"QA","languge":"Qatar"}
+{"id":"RE","languge":"Réunion"}
+{"id":"RO","languge":"Romania"}
+{"id":"RS","languge":"Serbia"}
+{"id":"RU","languge":"Russian Federation"}
+{"id":"RW","languge":"Rwanda"}
+{"id":"SA","languge":"Saudi Arabia"}
+{"id":"SB","languge":"Solomon Islands"}
+{"id":"SC","languge":"Seychelles"}
+{"id":"SD","languge":"Sudan"}
+{"id":"SE","languge":"Sweden"}
+{"id":"SG","languge":"Singapore"}
+{"id":"SH","languge":"Saint Helena, Ascension and Tristan da Cunha"}
+{"id":"SI","languge":"Slovenia"}
+{"id":"SJ","languge":"Svalbard and Jan Mayen"}
+{"id":"SK","languge":"Slovakia"}
+{"id":"SL","languge":"Sierra Leone"}
+{"id":"SM","languge":"San Marino"}
+{"id":"SN","languge":"Senegal"}
+{"id":"SO","languge":"Somalia"}
+{"id":"SR","languge":"Suriname"}
+{"id":"SS","languge":"South Sudan"}
+{"id":"ST","languge":"Sao Tome and Principe"}
+{"id":"SV","languge":"El Salvador"}
+{"id":"SX","languge":"Sint Maarten (Dutch part)"}
+{"id":"SY","languge":"Syrian Arab Republic"}
+{"id":"SZ","languge":"Swaziland"}
+{"id":"TC","languge":"Turks and Caicos Islands"}
+{"id":"TD","languge":"Chad"}
+{"id":"TF","languge":"French Southern Territories"}
+{"id":"TG","languge":"Togo"}
+{"id":"TH","languge":"Thailand"}
+{"id":"TJ","languge":"Tajikistan"}
+{"id":"TK","languge":"Tokelau"}
+{"id":"TL","languge":"Timor-Leste"}
+{"id":"TM","languge":"Turkmenistan"}
+{"id":"TN","languge":"Tunisia"}
+{"id":"TO","languge":"Tonga"}
+{"id":"TR","languge":"Turkey"}
+{"id":"TT","languge":"Trinidad and Tobago"}
+{"id":"TV","languge":"Tuvalu"}
+{"id":"TW","languge":"Taiwan, Province of China"}
+{"id":"TZ","languge":"Tanzania, United Republic of"}
+{"id":"UA","languge":"Ukraine"}
+{"id":"UG","languge":"Uganda"}
+{"id":"UM","languge":"United States Minor Outlying Islands"}
+{"id":"US","languge":"United States"}
+{"id":"UY","languge":"Uruguay"}
+{"id":"UZ","languge":"Uzbekistan"}
+{"id":"VA","languge":"Holy See (Vatican City State)"}
+{"id":"VC","languge":"Saint Vincent and the Grenadines"}
+{"id":"VE","languge":"Venezuela, Bolivarian Republic of"}
+{"id":"VG","languge":"Virgin Islands, British"}
+{"id":"VI","languge":"Virgin Islands, U.S."}
+{"id":"VN","languge":"Viet Nam"}
+{"id":"VU","languge":"Vanuatu"}
+{"id":"WF","languge":"Wallis and Futuna"}
+{"id":"WS","languge":"Samoa"}
+{"id":"YE","languge":"Yemen"}
+{"id":"YT","languge":"Mayotte"}
+{"id":"ZA","languge":"South Africa"}
+{"id":"ZM","languge":"Zambia"}
+{"id":"ZW","languge":"Zimbabwe"}
